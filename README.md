@@ -1,14 +1,16 @@
 # Courses and Certificates
 
-Repository contains Certificates and Statements of Accomplishment of Courses, MOOCs and other trainings I have accomplished. 
+Repository contains Certificates and Statements of Accomplishment of Courses, MOOCs and other trainings I have accomplished during my learning process.
 
-This is part of my learning process and the list will be updated regularly.
+The list will be updated regularly.
 
-## :heavy_check_mark: Courses and Certificates:
-1. [Tester Automatyzujący Selenium](https://sii.pl/szkolenia/oferta/tester-automatyzujacy/) - Sii
-2. [Data Science od podstaw](https://codeme.pl/datascience/) - CODE:ME
+___
+## :heavy_plus_sign:  Courses and Certificates:
+1. [Tester Automatyzujący Selenium](/Courses%20and%20Certificates/Tester%20Automatyzuj%C4%85cy%20Selenium%20-%20Sii%20-%20Certyfikat.pdf) - Sii -       [[?]](https://sii.pl/szkolenia/oferta/tester-automatyzujacy/)
+2. Data Science od podstaw - CODE:ME - [[?]](https://codeme.pl/datascience/)
 
-## :heavy_check_mark: MOOCs:
+___
+## :heavy_plus_sign:  MOOCs:
 ### :heavy_plus_sign: [Datacamp](/MOOCs/DataCamp)
 
 1. Cleaning Data in Python [4h]
@@ -48,41 +50,77 @@ This is part of my learning process and the list will be updated regularly.
 35. Writing Efficient Python Code [4h]
 36. Writing Functions in Python [4h] 
 
+
+### :heavy_plus_sign: [LinkedIn Learning](/MOOCs/LinkedIn%20Learning)
+1. API Testing Foundations [2h]										
+2. Agile Development Practices [0.5h]								
+3. Agile Software Development [2h] 									
+4. Agile Software Development: Code Quality [1.5h]					
+5. Agile Software Development: Kanban for Developers [0.5h]			
+6. Agile Software Development: Pair and Mob Programming [1.5h]		
+7. Agile Software Development: Refactoring [1.5h]					
+8. Agile Software Development: Remote Teams [1.5h]					
+9. Agile Software Development: Scrum for Developers [2.5h]			
+10. Agile Testing [1h]												
+11. Become an Agile Software Developer - Learning Path [17h]		
+12. Behavior-Driven Development [1.5h]								
+13. Data Fluency: Exploring and Describing Data [4.5h]				
+14. Data Science Foundations: Fundamentals [3.5h]					
+15. DevOps Foundations: Lean and Agile [1.5h]						
+16. Learning Django [1.5h]											
+17. Learning Python [2.5h]											
+18. Learning S.O.L.I.D. Programming Principles [1.5h]				
+19. Learning SQL Programming [1.5h]									
+20. Learning Selenium [1h]											
+21. Planning and Releasing Software with JIRA [1h]					
+22. Programming Foundations: Databases [1.5h]						
+23. Programming Foundations: Object-Oriented Design [2.5h]			
+24. Programming Foundations: Real-World Examples [3h]				
+25. Programming Foundations: Software Testing/QA [1h]				
+26. Scripting for Testers [2h]										
+27. Scrum: The Basics [1h]											
+28. Selenium Essential Training [2h]								
+29. Software Testing Foundations: Test Techniques [1.5h]			
+30. Software Testing: Tools [1h]									
+31. Test Automation Foundations [1h]								
+32. Transitioning from Waterfall to Agile Project Management [0.5h]	
+
+
 ### :heavy_plus_sign: [Pluralsight](/MOOCs/Pluralsight)
-1. [Angular: The Big Picture](https://app.pluralsight.com/library/courses/ng-big-picture/) [1h]
-2. [Big Data: The Big Picture](https://app.pluralsight.com/library/courses/bigdata-bigpicture) [2h]
-3. [Building a Modern CI/CD Pipeline with Jenkins](https://app.pluralsight.com/library/courses/building-modern-ci-cd-pipeline-jenkins) [2h]
-4. [Cloud Computing: The Big Picture](https://app.pluralsight.com/library/courses/cloud-computing-big-picture) [1h]
-5. [Cloud-native Architecture: The Big Picture](https://app.pluralsight.com/library/courses/cloud-native-architecture-big-picture) [1h]
-6. [Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills) [2.5h]
-7. [Core Python: Big Picture](https://app.pluralsight.com/library/courses/core-python-big-picture) [1h]
-8. [Creative Problem Solving and Decision Making Techniques](https://app.pluralsight.com/library/courses/creative-problem-solving-decision-techniques) [1.5h]
-9. [Data Science: The Big Picture](https://app.pluralsight.com/library/courses/data-science-big-picture) [1h]
-10. [Developing Teamwork Skills](https://app.pluralsight.com/library/courses/developing-teamwork-skills) [1h]
-11. [Django: Getting Started](https://app.pluralsight.com/library/courses/django-getting-started) [3h]
-12. [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture) [2h]
-13. [Getting Started with Jenkins](https://app.pluralsight.com/library/courses/getting-started-jenkins) [3h]
-14. [Git: The Big Picture](https://app.pluralsight.com/library/courses/git-big-picture) [1h]
-15. [Handling Difficult Situations at Work](https://app.pluralsight.com/library/courses/handling-difficult-situations-work) [1.5h]
-16. [ISTQB® Foundation Level Exam Overview](https://app.pluralsight.com/library/courses/foundation-level-exam-overview-istqb) [0.5h]
-17. [ISTQB® Foundation: Getting Started](https://app.pluralsight.com/library/courses/istqb-foundation-getting-started) [1.5h]
-18. [ISTQB® Foundation: Static Testing](https://app.pluralsight.com/library/courses/static-testing-foundation-istqb) [1.5h]
-19. [ISTQB® Foundation: Test Management](https://app.pluralsight.com/library/courses/test-management-istqb-foundation) [2.5h]
-20. [ISTQB® Foundation: Test Techniques](https://app.pluralsight.com/library/courses/istqb-foundation-test-techniques/table-of-contents) [2h]
-21. [ISTQB® Foundation: Testing throughout the Software Development Lifecycle](https://app.pluralsight.com/library/courses/istqb-foundation-testing-software-development-lifecycle) [1.5h]
-22. [ISTQB® Foundation: Tool Support for Testing](https://app.pluralsight.com/library/courses/istqb-foundation-tool-support-testing) [1h]
-23. [Improving Interpersonal Skills](https://app.pluralsight.com/library/courses/improving-interpersonal-skills) [1h]
-24. [Introduction to Leadership and Management for Developers](https://app.pluralsight.com/library/courses/introduction-leadership-management-developers) [4.5h]
-25. [Managing Conflict Best Practices](https://app.pluralsight.com/library/courses/managing-conflict-best-practices) [1h]
-26. [Microservices: The Big Picture](https://app.pluralsight.com/library/courses/microservices-big-picture) [2h]
-27. [Microsoft Azure: The Big Picture](https://app.pluralsight.com/library/courses/microsoft-azure-the-big-picture) [2h]
-28. [NoSQL: The Big Picture](https://app.pluralsight.com/library/courses/nosql-big-pic) [1h]
-29. [Python: The Big Picture](https://app.pluralsight.com/library/courses/python-big-picture) [1h]
-30. [Team Communication Techniques - Optimizing Information Sharing within Your Team](https://app.pluralsight.com/library/courses/team-communication-techniques-optimizing-information-sharing-within-team) [1.5h]
-31. [Technical Writing: Documentation on Software Projects](https://app.pluralsight.com/library/courses/technical-writing-software-documentation/table-of-contents) [4h]
-32. [Test-driven Development: The Big Picture](https://app.pluralsight.com/library/courses/test-driven-development-big-picture) [2h]
-33. [Testing Automation: The Big Picture](https://app.pluralsight.com/library/courses/testing-automation-big-picture) [1h]
-34. [The Information Security: Big Picture](https://app.pluralsight.com/library/courses/information-security-big-picture) [2h]
-35. [Using Critical Observation on the Job](https://app.pluralsight.com/library/courses/critical-observation-on-job) [1h]
-36. [Using Declarative Jenkins Pipelines](https://app.pluralsight.com/library/courses/using-declarative-jenkins-pipelines) [2h]
-37. [Using and Managing Jenkins Plugins](https://app.pluralsight.com/library/courses/using-managing-jenkins-plugins) [2.5h]
+1. Angular: The Big Picture [1h]
+2. Big Data: The Big Picture [2h]
+3. Building a Modern CI/CD Pipeline with Jenkins [2h]
+4. Cloud Computing: The Big Picture [1h]
+5. Cloud-native Architecture: The Big Picture [1h]
+6. Communications: How to Talk, Write, Present, and Get Ahead! [2.5h]
+7. Core Python: Big Picture [1h]
+8. Creative Problem Solving and Decision Making Techniques [1.5h]
+9. Data Science: The Big Picture [1h]
+10. Developing Teamwork Skills [1h]
+11. Django: Getting Started [3h]
+12. Docker and Kubernetes: The Big Picture [2h]
+13. Getting Started with Jenkinss://app.pluralsight.com/library/courses/getting-started-jenkins) [3h]
+14. Git: The Big Picture [1h]
+15. Handling Difficult Situations at Work [1.5h]
+16. ISTQB® Foundation Level Exam Overview [0.5h]
+17. ISTQB® Foundation: Getting Started [1.5h]
+18. ISTQB® Foundation: Static Testing [1.5h]
+19. ISTQB® Foundation: Test Management [2.5h]
+20. ISTQB® Foundation: Test Techniques [2h]
+21. ISTQB® Foundation: Testing throughout the Software Development Lifecycle [1.5h]
+22. ISTQB® Foundation: Tool Support for Testing [1h]
+23. Improving Interpersonal Skills [1h]
+24. Introduction to Leadership and Management for Developers [4.5h]
+25. Managing Conflict Best Practices [1h]
+26. Microservices: The Big Picture [2h]
+27. Microsoft Azure: The Big Picture [2h]
+28. NoSQL: The Big Picture [1h]
+29. Python: The Big Picture [1h]
+30. Team Communication Techniques - Optimizing Information Sharing within Your Team [1.5h]
+31. Technical Writing: Documentation on Software Projects [4h]
+32. Test-driven Development: The Big Picture [2h]
+33. Testing Automation: The Big Picture [1h]
+34. The Information Security: Big Picture [2h]
+35. Using Critical Observation on the Job [1h]
+36. Using Declarative Jenkins Pipelines [2h]
+37. Using and Managing Jenkins Plugins [2.5h]
